@@ -1,5 +1,5 @@
 # Intune
-Scripts for MS Intune
+Scripts for MS Intune/Endpoint Analytics
 
 Proactive Remediation Scripts:
 
