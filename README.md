@@ -15,7 +15,7 @@ If ANY of the above checks fails we exit and run the remediation script.
 
 The remediation script sets all of the above settings to their correct parameters.
 
-You might want to change the default settings within the script, so have a read of the scripts and test in your own environment to determjine the optimal settings for you!
+You might want to change the default settings within the script, so have a read of the scripts and test in your own environment to determine the optimal settings for you!
 
 
 /BranchCache Tuner (CACHE) contains the detect and remediation script to check that the BranchCache cache size is set to the correct size.
